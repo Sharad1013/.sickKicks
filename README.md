@@ -1,2 +1,3 @@
 # SickKicks
-an ecommerce sneakers shopping website(frontend) 
+Clone of an ecommerce sneakers shopping website(frontend).
+
