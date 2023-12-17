@@ -1,4 +1,4 @@
-👟👠👞👡SickKicks
+👟👠👞👡sickKicks
 
 It contains the frontend code for a fully functional sneaker shopping website built using HTML, CSS, and JavaScript. The website features a user-friendly interface with a focus on clean design and intuitive navigation.
 
